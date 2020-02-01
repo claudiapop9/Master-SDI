@@ -62,7 +62,7 @@ public class Controller {
     private Boolean validatePlainTxt(String txt) {
             //verificam daca am primit un sir de litere, mari si mici
 //        for (String e : txt) {
-            if (!txt.matches("[a-zA-Z]*")) {
+            if (!txt.matches("[a-zA-Z 0-9]*")) {
                 return false;
             }
 //        }

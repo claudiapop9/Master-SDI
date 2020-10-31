@@ -7,3 +7,6 @@
 [submodule "WSMT"]
 	path = WSMT
 	url = https://github.com/claudiapop9/WSMT-Projects.git
+[submodule "GCCC"]
+	path = GCCC
+	url = https://github.com/claudiapop9/GCCC.git

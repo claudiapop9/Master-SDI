@@ -4,3 +4,6 @@
 [submodule "GPU-DistArchitComputing"]
 	path = GPU-DistArchitComputing
 	url = https://github.com/claudiapop9/GPU-DistArchitComputing.git
+[submodule "WSMT"]
+	path = WSMT
+	url = https://github.com/claudiapop9/WSMT-Projects.git

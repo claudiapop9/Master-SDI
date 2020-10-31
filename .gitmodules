@@ -1,4 +1,4 @@
-[submodule "TPJAD-Projects"]
+[submodule "TPJAD"]
 	path = TPJAD-Projects
 	url = https://github.com/claudiapop9/TPJAD-Projects.git
 [submodule "GPU-DistArchitComputing"]

@@ -10,3 +10,6 @@
 [submodule "GCCC"]
 	path = GCCC
 	url = https://github.com/claudiapop9/GCCC.git
+[submodule "DNSOS"]
+	path = DNSOS
+	url = https://github.com/claudiapop9/DNSOS.git

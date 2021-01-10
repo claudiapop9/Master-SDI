@@ -13,3 +13,6 @@
 [submodule "DNSOS"]
 	path = DNSOS
 	url = https://github.com/claudiapop9/DNSOS.git
+[submodule "MFPC"]
+	path = MFPC
+	url = https://github.com/claudiapop9/MFPC.git
